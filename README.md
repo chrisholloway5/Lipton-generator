@@ -1,2 +1,2 @@
 # Lipton-generator
-Generate Monero based coins with 1 command
+Generate Lipton based coins with 1 command
